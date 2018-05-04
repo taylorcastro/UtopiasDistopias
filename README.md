@@ -1,4 +1,3 @@
-[Pad for the ws](https://cryptpad.fr/pad/#/1/edit/TYy-v3ImX0bm+PRXLENvaw/UDkCfcqvei2+aZlMEgAgvVVy/)
 ## 1 - Intro AvFloss (10mins.)
 ## 2 - Goals (5 mins.)
 * Stimulate creativity
