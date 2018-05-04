@@ -39,7 +39,7 @@
 ## (BREAK 20mins.)
 
 ## 7 - Exquisite corpse (3mins.*npeople)
-[Results from the participants](https://github.com/AVFLOSS/UtopiasDistopias/tree/master/exquisitesCorpses)
+[Results of the participants](https://github.com/AVFLOSS/UtopiasDistopias/tree/master/exquisitesCorpses)
 ## 8 - Elaborating ideas (40-50mins.)
 * Begin to elaborate the ideas that we found most suggestive, form groups, etc.
 * Read results
