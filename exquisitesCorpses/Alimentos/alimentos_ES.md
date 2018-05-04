@@ -1,4 +1,5 @@
 La tecnología de impresión de alimentos está en su versión 2.0, se han liberado las patentes de todas las recetas registradas en la wikifood. El sector de restauración ha caido en picado debido a la buena calidad, pero las grandes corporaciones han sabido mantenerse a flote introduciendo pequeños __bugs__ en algunas recetas. Un porcentaje de los usuarios enfermaban al consumir sus propios platos, creando una sensación de inseguridad.
+
 El sistema era complejo, pero inteligente. Una organización modificaba todas las recetas siguiendo un patrón que, a posteriori, le permitía identificar y revertir los cambios. Sólo unas pocas personas privilegiadas tenían acceso al sistema encargado de esa tarea.
 
 Alberto Comesaña, chef peruano de reconocido prestigio con su restaurante "Raices" se le ocurre una idea: "¿Cómo puedo utilizar este innovador sistema para traer sabores realmente peruanos a Madrid?"
