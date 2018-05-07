@@ -114,3 +114,7 @@ Injerto tecnológico | Technological Grafting
 Legislación imagen propia | Self-Image legislation
 Infancia | Childhood
 Web | Web
+Ciudad | City
+La mayor parte del Software es desarrollado por mujeres | Most of the software is developed by women
+Campo | Country
+Espejo | Mirror
