@@ -111,3 +111,6 @@ Hacker | Hacker
 Mueble | Furniture
 Conocimiento | Knowledge
 Injerto tecnológico | Technological Grafting
+Legislación imagen propia | Self-Image legislation
+Infancia | Childhood
+Web | Web
