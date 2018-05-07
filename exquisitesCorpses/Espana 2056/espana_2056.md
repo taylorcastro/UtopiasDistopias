@@ -1,4 +1,5 @@
-España, 2056.
+España, 2056
+
 Se ha aprobado la legislación que permite el matrimonio entre humanos y máquinas en todos los países de la Unión europea. Luis Suárez, abogado y defensor de los derechos humanos y máquinas, le contó a Noticias Tomorrow las razones por las que este fallo es histórico:
 La extinción de la humanidad es inminente, las promesas de la clonación han resultado más problemática. Esta legislación permite también la reproducción entre humano y máquina, aparecen los primeros humanoides. mitad código genético, mitad código de máquina. Lo bueno, es que el 50% de este código se puede manipular por los padres, también se venden en internet plantillas de código para configurar a tu hija-humanoide sin mucho esfuerzo.
 Aquellos que no utilizan estos métodos conceptivos y lo hacen a la manera antigua son los llamados salvajes, el contacto humano-humano está prohibido por vulnerable a gran cantidad de problemas físicos y psicológicos, el código genético para generar humanoides y la programación son libres lo que permite que cualquiera pueda compartir sus diseños de genotipos que según las circunstancias ambientales darán lugar a fenotipos diferentes con muchas cosas en común.
